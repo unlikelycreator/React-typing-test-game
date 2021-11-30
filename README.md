@@ -3,9 +3,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### The project is hosted using netlify [TypeX](https://typex.netlify.app/).
 
-### `Screenshot`
+### `Screenshots`
 
 ![Screenshot](https://github.com/unlikelycreator/React-typing-test-game/blob/main/build/TypeX.png)
+
+
 ![Screenshot](https://github.com/unlikelycreator/React-typing-test-game/blob/main/build/TypeX1.png)
 
 ## Available Scripts of Project (TypeX)
