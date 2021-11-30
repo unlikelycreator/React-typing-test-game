@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-The project is hosted using netlify [TypeX](https://typex.netlify.app/).
+
+
+###The project is hosted using netlify [TypeX](https://typex.netlify.app/).
+
+### `Screenshot`
+
+
 
 ## Available Scripts of Project (TypeX)
 
