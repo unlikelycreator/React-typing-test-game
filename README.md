@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Screenshots`
 
+
+
 ![Screenshot](https://github.com/unlikelycreator/React-typing-test-game/blob/main/build/TypeX.png)
 
 
