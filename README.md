@@ -1,11 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-###The project is hosted using netlify [TypeX](https://typex.netlify.app/).
+### The project is hosted using netlify [TypeX](https://typex.netlify.app/).
 
 ### `Screenshot`
 
-
+![Screenshot](https://github.com/unlikelycreator/React-typing-test-game/blob/main/build/TypeX.png)
 
 ## Available Scripts of Project (TypeX)
 
